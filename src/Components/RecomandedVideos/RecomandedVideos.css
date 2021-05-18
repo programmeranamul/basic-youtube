@@ -1,0 +1,6 @@
+.recomaded__videos{
+    flex: .85;
+    padding: 3px 20px 0px;
+    display: flex;
+    flex-wrap: wrap;       
+}

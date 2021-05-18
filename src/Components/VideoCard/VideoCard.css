@@ -1,0 +1,25 @@
+.video__card{
+    width: 240px;
+    padding-bottom: 30px;
+}
+.video__thumbnile{
+    height: 140px;
+    width: 220px;
+}
+.video__info{
+    display: flex;
+    padding: 0 20px 0 5px;
+    margin-top: 10px;
+}
+.video__info__text{
+    margin-left: 15px;
+}
+.video__info__text h4{
+    margin-bottom: 3px;
+    font-size: 14px;
+}
+.video__info__text p{
+    color: gray;
+    font-size: 13px;
+    font-weight: 400;
+}

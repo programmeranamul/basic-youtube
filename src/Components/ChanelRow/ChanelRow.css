@@ -1,0 +1,22 @@
+.chanel__row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  cursor: pointer;
+  margin: 25px 0;
+}
+.chanel__row__image {
+  width: 40%;
+}
+.Chanel__row__banner {
+  width: 120px !important;
+  height: 120px !important;
+  margin: 0 auto;
+}
+.chanel__subscrib{
+    margin: 6px 0;
+}
+.chanel__info p {
+  color: gray;
+  font-size: 14px;
+}

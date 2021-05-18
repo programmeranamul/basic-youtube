@@ -1,0 +1,19 @@
+.search__page {
+  flex: 0.85;
+  padding: 3px 20px 0px;
+}
+.filter{
+    display: flex;
+    font-size: small !important;
+    align-items: center;
+}
+.filter_icon{
+    font-size:23px !important; 
+    margin-right: 10px;
+}
+.search__page > hr{
+    border: none;
+    height: 1px;
+    background-color: lightgray;
+    margin: 15px 0;
+}
